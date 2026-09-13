@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was completed as part of my DecodeLabs Tech cybersecurity internship. It is a beginner-friendly Python lab for analyzing sample emails and messages for common phishing indicators.
+This project was completed as part of my DecodeLabs cybersecurity internship. It is a beginner-friendly Python lab for analyzing sample emails and messages for common phishing indicators.
 
 The analyzer checks for suspicious keywords, extracts links, identifies selected URL shorteners or suspicious words in URLs, assigns a simple risk score, and provides a recommended action.
 
